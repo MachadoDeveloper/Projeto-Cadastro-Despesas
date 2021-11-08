@@ -1,0 +1,17 @@
+.rodape {
+position: absolute;
+display:block;
+width:100%;
+}
+
+.coluna{
+    margin-left: 0;
+    display: flex;
+    justify-content: end;
+}
+
+.linha {
+    margin-right: 35%;
+    align-self:flex-end;
+}
+
